@@ -39,3 +39,23 @@ body{
     background-position: right;
     display: flex;
 }
+.secChead{
+    
+    font-size: 40px;
+    font-weight: 600;
+    margin: 10px;
+}
+.flexsecC{
+    display: flex;
+    background: url(./images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.childarea{
+width: 50%;
+margin: 20px 40px;
+box-shadow: 10px 5px 5px rgb(158, 143, 143);
+padding: 30px;
+
+}
