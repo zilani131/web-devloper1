@@ -33,3 +33,9 @@ body{
 .textalign{
     text-align: justify;
 }
+.secB{
+    background: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+}
